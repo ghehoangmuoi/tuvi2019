@@ -1,0 +1,36 @@
+1/ Thay đổi <meta> 
+
+<meta name="robots" content="index,follow,noodp" />
+<meta name="robots" content="noarchive">
+
+Tất cả các trang chuyên mục và page phân trang ()
+
+2/ Tự động thêm số trang vào title và description trên các trang phân trang 1/2/3
+
+<title>{nội dung title được nhập từ CMS}| Trang [số trang tương ứng }</title>
+<meta name="description" content=" [nội dung của description được nhập từ CMS | Trang 2" />
+
+3/  từ trang 1 thêm 
+
+<link rel="prev" href="url trang trước" />
+<link rel="next" href="url trang sau" />
+
+Ví dụ/
+
+https://doctailieu.com/tu-vi/nam-2019-c12252-trang-2
+
+<title>Tử vi 2019 - Xem lá số tử vi năm 2019 của bạn chính xác nhất | Trang 2</title>
+<meta name="description" content="Xem lá số tử vi 2019 của bạn chi tiết các luận giải về công danh sự nghiệp - tài lộc - vận hạn và diễn biến từng tháng trong năm Kỷ Hợi 2019 | Trang 2 ">
+<meta name="robots" content="index,follow,noodp" />
+<meta name="robots" content="noarchive">
+<link href="https://doctailieu.com/tu-vi/nam-2019-c12252" rel="canonical">
+<link href="https://doctailieu.com/tu-vi-amp/nam-2019-c12252-trang-2" rel="amphtml">
+<link rel="prev" href="https://doctailieu.com/tu-vi-amp/nam-2019-c12252-trang-1" />
+<link rel="next" href="https://doctailieu.com/tu-vi/nam-2019-c12252-trang-3" />
+
+
+fdgf
+
+
+
+
